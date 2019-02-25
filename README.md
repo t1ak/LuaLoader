@@ -1,7 +1,9 @@
 # LuaLoader
 
 Integrated Development Environment (IDE) for ESP8266 developers
+
 Package Description
+
 The essential multiplatforms tools for any ESP8266 developer from luatool author’s, including a LUA for NodeMCU
 
 Supported platforms
