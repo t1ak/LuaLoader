@@ -12,5 +12,6 @@ Windows(x86, x86-64)
 The competitive application for ESPlorer
 
 Version 300 (3.00)
-upload to ESP text and binary
-download and view LUA text file
+upload to ESP text and binary.
+
+Download and view LUA text file
