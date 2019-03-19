@@ -11,7 +11,7 @@ Windows(x86, x86-64)
 
 The competitive application for ESPlorer
 
-Version 300 (3.00)
+Version 311 (3.11)
 
 +Upload to ESP text and binary.
 
