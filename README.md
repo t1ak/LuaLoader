@@ -11,6 +11,10 @@ Windows(x86, x86-64)
 
 The competitive application for ESPlorer
 
+Version 323 (3.23) 2019 X
+
++suport Lua Flash Store (LFS)
+
 Version 314 (3.14) 2019-04-21
 
 +rename file name in ESP
