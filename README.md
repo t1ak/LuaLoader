@@ -1,15 +1,20 @@
 # LuaLoader
 
-Integrated Development Environment (IDE) for ESP8266 developers
+Integrated Development Environment (IDE) for ESP8266 and ESP32 developers
 
 Package Description
 
-The tools for any ESP8266 developer, including a LUA for NodeMCU
+The tools for any ESPxx developer, including a LUA for NodeMCU
 
 Supported platforms
 Windows(x86, x86-64)
 
 The competitive application for ESPlorer
+
+Version 400 (4.00) 2020 II
+
++suport ESP32
+-wersion > 4.00 not suported ESP8266
 
 Version 323 (3.23) 2019 X
 
